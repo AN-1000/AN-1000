@@ -1,13 +1,13 @@
 
 <br />
 
-I'm a Biomedical Engineer with a Computer Science Degree & a self-taught passionate FrontEnd developer from Lebanon.
+Biomedical Engineer with a Computer Science Degree
 
 **About me**
 
-- 💼 FrontEnd Software Engineer
+- 
 
-- ❤️ I love Writing ReactNative, and build simple cool apps.
+- 
 
 
 **Languages and Tools:**  
